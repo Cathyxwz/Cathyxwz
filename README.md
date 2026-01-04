@@ -4,15 +4,7 @@
 
 ###
 
-<h4 align="center">🍓 Sobre mí🍓<br>•🎓 Estudiante de Ingeniería de Software  <br>• 🐍 Aprendiendo Python y nuevas tecnologías  <br>• 🧠 Apasionada por el pensamiento lógico y la resolución de problemas  <br>• 🚀 Cada proyecto es un paso hacia crecer más en programación</h4>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph.svg">
-</picture>
+<h4 align="center">🍓 Sobre mí🍓<br>•🎓 Estudiante de Ingeniería de Software  <br>• 🐍 Aprendiendo Python y nuevas tecnologías  <br>• 🧠 Apasionada por el pensamiento lógico y la resolución de problemas  <br>• 🚀 Cada proyecto es un paso hacia crecer más en programación</h
 
 ###
 
