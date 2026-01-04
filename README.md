@@ -4,8 +4,15 @@
 
 ###
 
-<h4 align="center">🍓 Sobre mí 🍓<br><br>Soy estudiante de Ingeniería de Software, apasionada por el aprendizaje constante y la exploración de nuevas tecnologías. Actualmente estoy profundizando en Python, practicando desde lo más básico hasta proyectos creativos que me ayudan a fortalecer mis habilidades.<br><br>Me encanta el área de pensamiento lógico, porque ahí es donde la programación se convierte en un reto intelectual: resolver problemas, estructurar ideas y transformar conceptos en soluciones reales. Cada línea de código es un paso hacia construir algo más grande y significativo.<br><br>Este camino no es solo académico, es una aventura de descubrimiento, donde cada error se convierte en una lección y cada logro en un impulso para seguir creciendo.</h4>
+<h4 align="center">🍓 Sobre mí🍓<br>•🎓 Estudiante de Ingeniería de Software  <br>• 🐍 Aprendiendo Python y nuevas tecnologías  <br>• 🧠 Apasionada por el pensamiento lógico y la resolución de problemas  <br>• 🚀 Cada proyecto es un paso hacia crecer más en programación</h4>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cathyxwz/Cathyxwz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
